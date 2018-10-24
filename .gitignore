@@ -1,0 +1,6 @@
+#ignore all lib file
+*.a
+
+*.pro.user
+*~
+Makefile.*
